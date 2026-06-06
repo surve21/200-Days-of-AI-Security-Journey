@@ -68,3 +68,9 @@ Rather than focusing only on certifications, this repository serves as a public 
 - AI Threat Modeling
 - Secure AI Systems
 - AI Security Automation
+
+  ##  Daily Learning Log
+
+| Day | Date | Topics Covered |
+|-----|------------|-------------------------------------------------------------|
+| Day 1 | June 6, 2026 | Created the GitHub repository and established the AI Security Engineering learning portfolio. |
