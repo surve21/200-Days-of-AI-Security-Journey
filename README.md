@@ -74,3 +74,4 @@ Rather than focusing only on certifications, this repository serves as a public 
 | Day | Date | Topics Covered |
 |-----|------------|-------------------------------------------------------------|
 | Day 1 | June 6, 2026 | Created the GitHub repository and established the AI Security Engineering learning portfolio. |
+| Day 2 | June 7, 2026 | Networking Fundamentals, Network Devices, IP Addressing & Subnetting, Packet Tracer Labs, Wireshark Introduction |
