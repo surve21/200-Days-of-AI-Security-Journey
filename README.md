@@ -76,4 +76,4 @@ Rather than focusing only on certifications, this repository serves as a public 
 | Day 1 | June 6, 2026 | Created the GitHub repository and established the AI Security Engineering learning portfolio. |
 | Day 2 | June 7, 2026 | Networking Fundamentals, Network Devices, IP Addressing & Subnetting, Packet Tracer Labs, Wireshark Introduction |
 | Day 3 | June 8, 2026 | Ports & Protocols, Network Topologies, Router-based Packet Tracer Lab, First Wireshark Capture & Filtering. |
-| Day 4 | June 9, 2026 | Revision of Networking Fundamentals, Network Devices, IP Addressing, Ports & Protocols, Packet Tracer Labs, and Wireshark Basics. |
+| Day 4 | June 10, 2026 | Revision of Networking Fundamentals, Network Devices, IP Addressing, Ports & Protocols, Packet Tracer Labs, and Wireshark Basics. |
