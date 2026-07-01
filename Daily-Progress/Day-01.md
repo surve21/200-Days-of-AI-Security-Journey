@@ -1,6 +1,6 @@
 #  Day 1 — Networking Foundations
 
-**Date:** June 14, 2026
+**Date:** July 1, 2026
 
 ##  Summary
 
