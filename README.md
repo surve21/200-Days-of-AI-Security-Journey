@@ -68,4 +68,13 @@ Rather than focusing only on certifications, this repository serves as a public 
 - AI Threat Modeling
 - Secure AI Systems
 - AI Security Automation
+## 📝 Daily Learning Log
+
+This section tracks my day-to-day progress throughout my AI Security Engineering journey. Detailed notes for each day can be found in the `Daily-Progress` folder.
+
+### Progress
+
+| Day | Date | Topics Covered |
+|-----|------------|----------------|
+| Day 1 | July 1, 2026 | Networking Fundamentals, Network Devices, Basic LAN Connectivity, DHCP Configuration, and Wireshark Fundamentals. |
 
