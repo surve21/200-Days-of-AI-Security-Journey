@@ -77,4 +77,6 @@ This section tracks my day-to-day progress throughout my AI Security Engineering
 | Day | Date | Topics Covered |
 |-----|------------|----------------|
 | Day 1 | July 1, 2026 | Networking Fundamentals, Network Devices, Basic LAN Connectivity, DHCP Configuration, and Wireshark Fundamentals. |
+| Day 2 | July 17, 2026 | IP Addressing & Subnetting, Protocols & Ports, VLAN Segmentation, Inter-VLAN Routing (Router-on-a-Stick), and Wireshark Packet Analysis.|
+
 
