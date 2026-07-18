@@ -68,7 +68,7 @@ Rather than focusing only on certifications, this repository serves as a public 
 - AI Threat Modeling
 - Secure AI Systems
 - AI Security Automation
-## 📝 Daily Learning Log
+##  Daily Learning Log
 
 This section tracks my day-to-day progress throughout my AI Security Engineering journey. Detailed notes for each day can be found in the `Daily-Progress` folder.
 
@@ -78,5 +78,5 @@ This section tracks my day-to-day progress throughout my AI Security Engineering
 |-----|------------|----------------|
 | Day 1 | July 1, 2026 | Networking Fundamentals, Network Devices, Basic LAN Connectivity, DHCP Configuration, and Wireshark Fundamentals. |
 | Day 2 | July 17, 2026 | IP Addressing & Subnetting, Protocols & Ports, VLAN Segmentation, Inter-VLAN Routing (Router-on-a-Stick), and Wireshark Packet Analysis.|
-
+| Day 3 | July 18, 2026 | Network Topologies, Routing & Switching Fundamentals, and Spanning Tree Protocol (STP) Lab. |
 
