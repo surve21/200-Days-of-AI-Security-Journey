@@ -80,3 +80,4 @@ This section tracks my day-to-day progress throughout my AI Security Engineering
 | Day 2 | July 17, 2026 | IP Addressing & Subnetting, Protocols & Ports, VLAN Segmentation, Inter-VLAN Routing (Router-on-a-Stick), and Wireshark Packet Analysis.|
 | Day 3 | July 18, 2026 | Network Topologies, Routing & Switching Fundamentals, and Spanning Tree Protocol (STP) Lab. |
 | Day 4 | July 19, 2026 | Firewalls, VPNs, Proxy Servers, Wireless & IoT Security, and Static Routing Configuration. |
+| Day 5 | July 20, 2026 | Network Attacks, Man-in-the-Middle (MITM), and Advanced Hacker Techniques. |
