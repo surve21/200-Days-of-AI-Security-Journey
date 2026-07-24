@@ -1,6 +1,6 @@
  Day 7 — Networking Devices, DHCP, and Wireshark Statistics Revision
 
-Date: July 22, 2026
+Date: July 24, 2026
 
  Summary
 
