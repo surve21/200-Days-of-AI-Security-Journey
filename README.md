@@ -84,3 +84,4 @@ This section tracks my day-to-day progress throughout my AI Security Engineering
 | Day 6 | July 23, 2026 | Revision of Networking Fundamentals, Basic LAN Connectivity (Packet Tracer), and Wireshark Fundamentals. |
 | Day 7 | July 24, 2026 | Revision of Network Devices, DHCP Configuration (Packet Tracer), and Wireshark Statistics. |
 | Day 8 | July 25, 2026 | Revision of IP Addressing & Subnetting and VLAN Configuration (Packet Tracer). |
+| Day 9 | July 27, 2026 | Revision of Protocols and Ports (DNS, HTTPS, FTP, and SSH). |
