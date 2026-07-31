@@ -86,3 +86,4 @@ This section tracks my day-to-day progress throughout my AI Security Engineering
 | Day 8 | July 25, 2026 | Revision of IP Addressing & Subnetting and VLAN Configuration (Packet Tracer). |
 | Day 9 | July 27, 2026 | Revision of Protocols and Ports (DNS, HTTPS, FTP, and SSH). |
 | Day 10| July 29, 2026 | Revision of Network Topologies and Inter-VLAN Routing (Router-on-a-Stick) in Cisco Packet Tracer. |
+| Day 11| July 31, 2026 | Revision of Routing & Switching Fundamentals and Spanning Tree Protocol (STP) in Cisco Packet Tracer. |
