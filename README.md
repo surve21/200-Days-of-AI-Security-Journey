@@ -89,3 +89,4 @@ This section tracks my day-to-day progress throughout my AI Security Engineering
 | Day 11| July 31, 2026 | Revision of Routing & Switching Fundamentals and Spanning Tree Protocol (STP) in Cisco Packet Tracer. |
 | Day 12| August 1, 2026 | Revision of Firewalls, VPNs, Proxy Servers, Wireless & IoT Security, and Static Routing (Packet Tracer). |
 | Day 13| August 3, 2026 | Revision of Network Attacks, MITM, Advanced Hacker Techniques, and STP (Packet Tracer). |
+| Day 14 | August 4, 2026 | Network Penetration Testing Tools, Real-World Attack Scenarios, and RIP Routing (Packet Tracer). |
