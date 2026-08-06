@@ -91,3 +91,4 @@ This section tracks my day-to-day progress throughout my AI Security Engineering
 | Day 13| August 3, 2026 | Revision of Network Attacks, MITM, Advanced Hacker Techniques, and STP (Packet Tracer). |
 | Day 14 | August 4, 2026 | Network Penetration Testing Tools, Real-World Attack Scenarios, and RIP Routing (Packet Tracer). |
 | Day 15 | August 5, 2026 | Real-World Attack Scenarios and OSPF Routing (Packet Tracer). |
+| Day 16 | August 6, 2026 | Started Beginner Cybersecurity Project – File Integrity Monitor (FIM) using Python. |
