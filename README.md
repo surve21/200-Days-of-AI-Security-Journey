@@ -92,3 +92,4 @@ This section tracks my day-to-day progress throughout my AI Security Engineering
 | Day 14 | August 4, 2026 | Network Penetration Testing Tools, Real-World Attack Scenarios, and RIP Routing (Packet Tracer). |
 | Day 15 | August 5, 2026 | Real-World Attack Scenarios and OSPF Routing (Packet Tracer). |
 | Day 16 | August 6, 2026 | Started Beginner Cybersecurity Project – File Integrity Monitor (FIM) using Python. |
+| Day 17 | August 11, 2026 | Cybersecurity Foundations — Harvard CS50 Introduction to Cybersecurity: Introduction and Securing Accounts. |
