@@ -95,3 +95,4 @@ This section tracks my day-to-day progress throughout my AI Security Engineering
 | Day 17 | August 11, 2026 | Cybersecurity Foundations — Harvard CS50 Introduction to Cybersecurity: Introduction and Securing Accounts. |
 | Day 18 | August 12, 2026 | Completed and published File Integrity Monitor (FIM) cybersecurity project using Python. |
 | Day 19 | August 15, 2026 | CS50 Introduction to Cybersecurity — Securing Data, Securing Systems, Securing Software, and Preserving Privacy. |
+| Day 20 | August 16, 2026 | Phase 1 — Security Mindset: Cybersecurity Fundamentals, CIA Triad, AAA, Security Controls, and Core Security Principles. |
